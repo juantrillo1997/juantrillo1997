@@ -9,8 +9,8 @@ In my next role, I aim to go beyond typical analyses and am eager to apply my kn
 ## Contact
 
 - Email: [juantrillo1997@gmail.com](mailto:juantrillo1997@gmail.com)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/juantrillogomez/)
-- GitHub: [YourUsername](https://github.com/juantrillo1997)
+- LinkedIn: [juantrillogomez](https://www.linkedin.com/in/juantrillogomez/)
+- GitHub: [juantrillo1997](https://github.com/juantrillo1997)
 
 <!-- Este comentario no se mostrará en el renderizado final ## Featured Projects
 
