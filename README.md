@@ -2,15 +2,13 @@
 
 ## About Me
 
-I am a Ph.D. in Mathematics with a European mention, in light of three months of research in Germany, conducted in a fully English-speaking environment. Unlike many recent graduates in the fields of Data Analysis, Machine Learning, and Artificial Intelligence, my Ph.D. training provides me with deep expertise in mathematics, statistics, and programming. I believe this is my strong point, positioning me as a unique asset in a landscape often dominated by conventional and routine approaches to problems that require more critical thinking and innovative solutions, i.e., 'thinking outside the box.'
-
-In my next role, I aim to go beyond typical analyses and am eager to apply my knowledge and broaden my perspective in Data Analysis and Machine Learning.
+I am a Ph.D. in Mathematics with a European mention, in light of three months of research in Germany, conducted in a fully English-speaking environment. Unlike many recent graduates in the fields of Data Analysis, Machine Learning, and Artificial Intelligence, my Ph.D. training provides me with deep expertise in mathematics, statistics, and programming. I believe this is my strong point, positioning me as a unique asset in a landscape often dominated by conventional and routine approaches to problems that require more critical thinking and innovative solutions, i.e., 'thinking outside the box.' In my next role, I aim to go beyond typical analyses and am eager to apply my knowledge and broaden my perspective in Data Analysis and Machine Learning.
 
 ## Contact
 
-- Email: [juantrillo1997@gmail.com](mailto:juantrillo1997@gmail.com)
-- LinkedIn: [juantrillogomez](https://www.linkedin.com/in/juantrillogomez/)
-- GitHub: [juantrillo1997](https://github.com/juantrillo1997)
+- Email [juantrillo1997@gmail.com](mailto:juantrillo1997@gmail.com)
+- LinkedIn [juantrillogomez](https://www.linkedin.com/in/juantrillogomez/)
+- GitHub [juantrillo1997](https://github.com/juantrillo1997)
 
 <!-- Este comentario no se mostrará en el renderizado final ## Featured Projects
 
