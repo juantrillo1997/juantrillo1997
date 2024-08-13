@@ -39,7 +39,7 @@ As I advance in my professional journey, my goals are to:
 
 - 📧 Email: [juantrillo1997@gmail.com](mailto:juantrillo1997@gmail.com)
 - 💼 LinkedIn: [juantrillogomez](https://www.linkedin.com/in/juantrillogomez/)
-- GitHub: [juantrillo1997](https://github.com/juantrillo1997)
+- 🧑‍💻 GitHub: [juantrillo1997](https://github.com/juantrillo1997)
 
 Thank you for visiting my profile! If you want to collaborate or just chat about mathematics, data, and technology, feel free to contact me.
 
