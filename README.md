@@ -15,7 +15,7 @@ Welcome to my data portfolio. Here, you will find a comprehensive summary of my 
 - [Python](#python)
 - [PowerBi](#powerbi)
 
-## Python 🐍
+## Python
 
 | Project Link | Project Description | Libraries |
 |---|---|---|
