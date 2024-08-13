@@ -6,12 +6,13 @@ I am a **Ph.D. in Mathematics** 🎓 with a European mention, having conducted r
 
 I strive to go beyond typical analyses and am eager to leverage my knowledge to **develop innovative solutions** 💡🔍 for complex problems, pushing the boundaries of what’s possible.
 
-## Portfolio
+# Portfolio
 
-Check out my detailed portfolio showcasing various projects and achievements:
+Check out my detailed portfolio showcasing a range of projects and achievements in data analysis and machine learning:
 
 🌟 **[My Portfolio](https://github.com/juantrillo1997/Portofolio-Guide/blob/main/README.md)**
 
+In this portfolio, you'll find a collection of my work in Python, Power BI, and other tools relevant to data analysis and machine learning. From predictive modeling and exploratory data analysis to interactive data visualizations and database management, my projects highlight my expertise in extracting insights and solving complex problems with data. Explore various projects that demonstrate my skills and contributions across different domains, showcasing both my technical proficiency and practical experience.
 
 ## Skills
 
