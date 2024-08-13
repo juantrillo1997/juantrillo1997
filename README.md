@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am a Ph.D. in Mathematics with a European mention, having conducted research in Germany and worked in a fully English-speaking environment. My deep expertise in mathematics, statistics, and programming sets me apart from many recent graduates in Data Analysis, Machine Learning, and Artificial Intelligence. I aim to go beyond typical analyses and am eager to apply my knowledge in Data Analysis and Machine Learning to develop innovative solutions for complex problems.
+I am a **Ph.D. in Mathematics** 🎓 with a European mention, having conducted research in Germany 🇩🇪 and worked in a fully English-speaking environment 🌍. My deep expertise in **mathematics**, **statistics**, and **programming** 🧮💻 sets me apart from many recent graduates in **Data Analysis**, **Machine Learning**, and **Artificial Intelligence** 🤖.
+
+I strive to go beyond typical analyses and am eager to leverage my knowledge to **develop innovative solutions** 💡🔍 for complex problems, pushing the boundaries of what’s possible.
 
 ## Portfolio
 
