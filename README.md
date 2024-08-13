@@ -24,7 +24,7 @@ Welcome to my data portfolio. Here, you will find a comprehensive summary of my 
 
 ***
 
-## Power BI
+## PowerBI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
