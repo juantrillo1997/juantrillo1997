@@ -8,7 +8,7 @@ I strive to go beyond typical analyses and am eager to leverage my knowledge to 
 
 # 🗺 Portfolio
 
-Welcome to my data portfolio. Here, you will find a comprehensive summary of my projects in the field of data analysis and modeling. Each entry provides an overview of the methodologies used, insights gained, and the impact of the work conducted.
+Welcome to my data portfolio, where I showcase a diverse range of projects focused on Natural Language Processing (NLP), machine learning, and advanced data analysis techniques. These projects highlight my work in areas such as sentiment analysis, neural networks, predictive modeling, and exploratory data analysis (EDA). Each entry details the machine learning algorithms applied, the insights derived, and the impact of these data-driven solutions, reflecting a comprehensive understanding of modern data science methodologies.
 
 ## 📚 Table of Contents
 
